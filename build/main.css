@@ -12,6 +12,10 @@
   color: white;
 }
 
+#hero span {
+  display: block;
+}
+
 nav {
   display: none;
 }
